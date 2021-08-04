@@ -1,2 +1,1 @@
 # SPAMUN
-SPAMUN
